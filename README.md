@@ -6,3 +6,4 @@ Introducing Sentimental Analyzer: a powerful NLP-based project that analyzes tex
 ### NLTK: pip install nltk
 #### after importing nltk, run this command: nltk.download() in few seconds, a downloader window will pop up. Click on all and download all the packages
 
+![graph](https://github.com/ishanwadhwani/Sentimental_Analysis/assets/89929251/1009ded5-5b6c-4a7d-b11e-6b7548b8f957)
